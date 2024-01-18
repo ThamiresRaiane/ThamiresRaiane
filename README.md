@@ -5,9 +5,6 @@ Sou uma estudante de Engenharia de Produção apaixonada por tecnologia e inova�
 <br>
 - 🎓| Graduanda em Engenharia de Produção;<br>
 - 🚀| Interesse em Ciência de Dados, PCP e Supply Chain;<br>
-- 💼| Experiências em estágios na Braskem e Vidrosistemas;<br>
-- 📚| Monitoria em Cálculo Diferencial e Álgebra Linear;<br>
-- 🏆| Liderança na fundação da atlética acadêmica no IFSP;<br>
 - 💻| Paixão por resolver problemas através do código;<br>
 - 🌐| Atualmente aprimorando habilidades no desenvolvimento de sistemas;<br>
 - 👯| Busco oportunidades para colaborar em projetos desafiadores;<br>
