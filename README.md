@@ -27,7 +27,7 @@ Se você gostaria de discutir uma oportunidade de colaboração, tem alguma perg
 
 Ficarei feliz em ajudar! 😊<br><br>
      <a href = "mailto:rm16972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/thamires-raiane-m-46ba44153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https//:www.linkedin.com/in/thamires-r-46ba44153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       
 </div>
 
